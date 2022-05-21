@@ -1,0 +1,9 @@
+{
+    "id":           "fossdemo",
+	"type":         "mod",
+    "name":         "demo.fossbilling.org module",
+    "description":  "Disables sections in FOSSBilling",
+    "author":       "FOSSBilling",
+    "author_url":   "https://FOSSBilling.org",
+    "version":      "1.0.0"
+}
